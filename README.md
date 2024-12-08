@@ -1,3 +1,6 @@
+ feature/pr-3
+## A prototype of a schedule management system at a university
+=======
  feature/pr-2
 ## TypeScript Web App
 
@@ -12,3 +15,4 @@ ________
 =======
 # Special-Languages-of-Programing
  main
+main
