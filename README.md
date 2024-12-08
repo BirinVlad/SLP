@@ -1,3 +1,4 @@
+ feature/pr-2
 ## TypeScript Web App
 
 ### *About* 
@@ -8,3 +9,6 @@ ________
 - Modal window pop up with animation
 - Modal window can be closed
 - Fetching data from `jsonplaceholder.typicode.com`
+=======
+# Special-Languages-of-Programing
+ main
