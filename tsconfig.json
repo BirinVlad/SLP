@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+      "target": "es6", // або "es2015" або новіша версія
+      "lib": ["es6", "dom"], // або "es2015", "es2016", і т.д.
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true
+  }
+}
